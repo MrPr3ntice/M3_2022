@@ -1,5 +1,5 @@
 # M3_2022
-Code Examples for the Talk "Transfer learning and domain adaptation of AI models." on the M3 Conference 2022 in Karlsruhe, GER (2022/07/03).
+Code Examples for the talk "Transfer Learning and Domain Adaptation of AI Models." on the M3 Conference 2022 in Karlsruhe, GER (2022/07/03).
 
 ## Colab links
 Here you find the Google Colab links to execute the example notebooks in this repository.
