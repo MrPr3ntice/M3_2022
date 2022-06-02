@@ -1,18 +1,5 @@
-from __future__ import print_function, division
-
-import torch
-import torch.nn as nn
-import torch.optim as optim
-from torch.optim import lr_scheduler
-import torch.backends.cudnn as cudnn
 import numpy as np
-import torchvision
-from torchvision import datasets, models, transforms
-from google.colab import drive
 import matplotlib.pyplot as plt
-import time
-import os
-import copy
 
 def imshow(inp, title=None):
     """Imshow for pytorch-tensor."""
